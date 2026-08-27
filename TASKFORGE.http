@@ -1,0 +1,6 @@
+@TASKFORGE_HostAddress = http://localhost:5115
+
+GET {{TASKFORGE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
